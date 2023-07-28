@@ -116,10 +116,10 @@ footer{
     justify-content: flex-start;
     align-items: center;
     color: #F2F2F2;
-    height: 250px;
+    height: 200px;
 }
 .contacto{
-    width: 30%;
+    width: 15%;
     display: flex;
     justify-content: center;
 }
